@@ -1,16 +1,21 @@
 _repo: The-Book-of-the-Lover-and-the-Beloved-Translated-from-the-Catalan-of-Ramon-Lull-with-an-Intro__60704
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Peers, E. Allison
     gutenberg_agent_id: '51089'
     url: http://www.gutenberg.org/2009/agents/51089
+covers:
+- cover_type: archival
+  image_path: 60704-h/images/cover.jpg
 creator:
   author:
     agent_name: Lull, Ramón
     gutenberg_agent_id: '51088'
     url: http://www.gutenberg.org/2009/agents/51088
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60704#The-Book-of-the-Lover-and-the-Beloved-Translated-from-the-Catalan-of-Ramon-Lull-with-an-Intro_
 gutenberg_issued: '2019-11-16'
 gutenberg_type: Text
 identifiers:
